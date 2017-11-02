@@ -39,14 +39,17 @@
         padding: 10px 0 0;
 
         display: flex;
-        flex-direction: column;
-        
+        flex-direction: column;     
     }
     
     .block {
         width: 100%;
         height: 100px;
         margin-bottom: 10px; 
+    }
+
+    .block_2 {
+        order: 2;
     }
     
     .footer {
@@ -61,7 +64,6 @@
     min-width: 1170px;
     height: 1285px;
 
-    margin: auto;
     }
 
     .header {
