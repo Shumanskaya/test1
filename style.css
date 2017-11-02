@@ -1,0 +1,39 @@
+.wrapper {
+    width: 100%;
+    max-width: 1170px;
+    height: 1285px;
+
+    margin: auto;
+}
+
+.header {
+    height: 115px;
+    background-color: 7f9dfc;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    padding: 62px 15px;
+
+    background-color: d3deff;
+}
+
+.block {
+    width: 31%;
+    min-width: 360px;
+    height: 845px;
+}
+
+.block_1 {
+    background-color: fcafaf;
+}
+
+.block_2 {
+    background-color: fbe597;
+}
+
+.footer {
+    height: 200px;
+    background-color: 2d3759;
+}
